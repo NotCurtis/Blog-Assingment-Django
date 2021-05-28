@@ -1,3 +1,3 @@
 # Procfile
 
-web: gunicorn mysite.wsgi
+web: gunicorn Not_Curtis_Blog.wsgi
